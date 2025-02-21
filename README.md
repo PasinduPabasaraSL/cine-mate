@@ -10,9 +10,9 @@
 <h2>🚀 Features</h2>
 
 <ul>
-  <li>✅ <strong>Modern & Responsive UI</strong></li>
+  <li>✅ <strong>Modern & stylish UI</strong></li>
   <li>✅ <strong>Reusable React Components</strong></li>
-  <li>✅ <strong>Styled with CSS/Tailwind/Bootstrap</strong> (mention if applicable)</li>
+  <li>✅ <strong>Styled with custom CSS</li>
   <li>✅ <strong>Simple and clean design</strong></li>
 </ul>
 
