@@ -1,8 +1,69 @@
-# React + Vite
+<h1 align="center">🎬 Movie App (UI Only)</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A simple and modern movie app UI built with React.
+</p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<hr>
+
+<h2>🚀 Features</h2>
+
+<ul>
+  <li>✅ <strong>Modern & Responsive UI</strong></li>
+  <li>✅ <strong>Reusable React Components</strong></li>
+  <li>✅ <strong>Styled with CSS/Tailwind/Bootstrap</strong> (mention if applicable)</li>
+  <li>✅ <strong>Simple and clean design</strong></li>
+</ul>
+
+<hr>
+
+<h2>📦 Installation</h2>
+
+<ol>
+  <li><strong>Clone the repository:</strong></li>
+</ol>
+
+<pre><code>git clone https://github.com/YOUR_USERNAME/REPO_NAME.git</code></pre>
+
+<ol start="2">
+  <li><strong>Navigate to the project folder:</strong></li>
+</ol>
+
+<pre><code>cd REPO_NAME</code></pre>
+
+<ol start="3">
+  <li><strong>Install dependencies:</strong></li>
+</ol>
+
+<pre><code>npm install</code></pre>
+
+<hr>
+
+<h2>🛠 Usage</h2>
+
+<ul>
+  <li><strong>Start the development server:</strong></li>
+</ul>
+
+<pre><code>npm start</code></pre>
+
+<ul>
+  <li><strong>Build for production:</strong></li>
+</ul>
+
+<pre><code>npm run build</code></pre>
+
+<hr>
+
+<h2>📌 Note</h2>
+
+<blockquote>
+  <p>This project is <strong>UI only</strong> and does not include backend functionality.</p>
+</blockquote>
+
+<hr>
+
+<h2>📜 License</h2>
+
+<p>This project is licensed under the <strong>MIT License</strong>.</p>
