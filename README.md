@@ -11,7 +11,6 @@
 
 <ul>
   <li>✅ <strong>Modern & stylish UI</strong></li>
-  <li>✅ <strong>Reusable React Components</strong></li>
   <li>✅ <strong>Styled with custom CSS</li>
   <li>✅ <strong>Simple and clean design</strong></li>
 </ul>
